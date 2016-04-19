@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A0148E1A-E43F-7C5F-027D-25B92E7D2439}") = "ScreensGame", "Assembly-CSharp.csproj", "{F4382119-5690-545A-3B0F-F17D741C2B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4382119-5690-545A-3B0F-F17D741C2B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4382119-5690-545A-3B0F-F17D741C2B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4382119-5690-545A-3B0F-F17D741C2B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4382119-5690-545A-3B0F-F17D741C2B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
