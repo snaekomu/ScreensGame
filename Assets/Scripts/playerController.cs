@@ -35,7 +35,7 @@ public class playerController : MonoBehaviour {
 		Debug.Log (targets.Length);
 		for (int i = 0; i < targets.Length; i++) {
 			//Change destination of targets
-			targets [i].GetComponent<peepController>().ChangeDest();
+			targets [i].GetComponent<peepController>().ChangeDestTrigger();
 		}//for	
 	}//firstAbility
 }

@@ -1,9 +1,9 @@
 ﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\playerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\peepController.cs">
     <Files>
-      <File FileName="Assets\Scripts\peepController.cs" Line="32" Column="29" />
-      <File FileName="Assets\Scripts\playerController.cs" Line="7" Column="29" />
+      <File FileName="Assets\Scripts\peepController.cs" Line="56" Column="9" />
+      <File FileName="Assets\Scripts\playerController.cs" Line="38" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
