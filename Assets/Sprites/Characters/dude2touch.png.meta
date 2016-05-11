@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 4aba59c34de22384abcdd67ee5e35b72
+timeCreated: 1462983836
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dude2touch_0
+    21300002: dude2touch_1
+    21300004: dude2touch_2
+    21300006: dude2touch_3
+    21300008: dude2touch_4
+    21300010: dude2touch_5
+    21300012: dude2touch_6
+    21300014: dude2touch_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dude2touch_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 406
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.417145, y: -45}
+        - {x: 111.417145, y: -25}
+        - {x: 86.417145, y: 94}
+        - {x: 51.417145, y: 164}
+        - {x: -74.582855, y: 164}
+        - {x: -66.582855, y: 60}
+        - {x: -110.582855, y: 33}
+        - {x: -110.582855, y: -44}
+        - {x: -84.582855, y: -69}
+        - {x: -96.582855, y: -164}
+        - {x: 101.417145, y: -164}
+        - {x: 111.417145, y: -103}
+        - {x: 111.417145, y: -51}
+        - {x: 109.417145, y: -49}
+    - name: dude2touch_1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 439
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.24429, y: 105}
+        - {x: 50.244293, y: 164}
+        - {x: -35.755707, y: 164}
+        - {x: -60.755707, y: 154}
+        - {x: -73.75571, y: 113}
+        - {x: -119.75571, y: 48}
+        - {x: -119.75571, y: 19}
+        - {x: -112.75571, y: 1}
+        - {x: -61.755707, y: -35}
+        - {x: -76.75571, y: -159}
+        - {x: -70.75571, y: -164}
+        - {x: 63.244293, y: -164}
+        - {x: 120.24429, y: -49}
+        - {x: 120.24429, y: -5}
+    - name: dude2touch_2
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 413
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.842834, y: 66}
+        - {x: 55.842834, y: 137}
+        - {x: 22.842834, y: 164}
+        - {x: -47.157166, y: 164}
+        - {x: -84.157166, y: 132}
+        - {x: -64.157166, y: 100}
+        - {x: -84.157166, y: 130}
+        - {x: -112.157166, y: 116}
+        - {x: -112.157166, y: 23}
+        - {x: -73.157166, y: -136}
+        - {x: -80.157166, y: -164}
+        - {x: 55.842834, y: -164}
+        - {x: 113.842834, y: -41}
+        - {x: 113.842834, y: 7}
+      - - {x: 76.842834, y: -37}
+        - {x: 76.842834, y: -41}
+        - {x: 78.842834, y: -43}
+        - {x: 80.842834, y: -43}
+        - {x: 82.842834, y: -41}
+        - {x: 82.842834, y: -39}
+        - {x: 79.842834, y: -36}
+      - - {x: 74.842834, y: -27}
+        - {x: 76.842834, y: -29}
+        - {x: 79.842834, y: -28}
+        - {x: 79.842834, y: -24}
+        - {x: 77.842834, y: -22}
+        - {x: 74.842834, y: -23}
+      - - {x: -97.157166, y: 42}
+        - {x: -101.157166, y: 42}
+        - {x: -102.157166, y: 39}
+        - {x: -102.157166, y: 31}
+        - {x: -101.157166, y: 30}
+        - {x: -97.157166, y: 30}
+        - {x: -95.157166, y: 32}
+        - {x: -95.157166, y: 41}
+    - name: dude2touch_3
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 435
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.94855, y: -32}
+        - {x: 117.94855, y: -30}
+        - {x: 119.94855, y: -27}
+        - {x: 119.94855, y: 29}
+        - {x: 71.94855, y: 146}
+        - {x: 45.948547, y: 164}
+        - {x: -50.051453, y: 164}
+        - {x: -72.05145, y: 161}
+        - {x: -118.05145, y: 106}
+        - {x: -118.05145, y: 89}
+        - {x: -92.05145, y: 24}
+        - {x: -66.05145, y: -53}
+        - {x: -76.05145, y: -164}
+        - {x: 58.948547, y: -164}
+      - - {x: 79.94855, y: -37}
+        - {x: 79.94855, y: -41}
+        - {x: 81.94855, y: -43}
+        - {x: 83.94855, y: -43}
+        - {x: 85.94855, y: -41}
+        - {x: 85.94855, y: -39}
+        - {x: 82.94855, y: -36}
+      - - {x: 77.94855, y: -27}
+        - {x: 79.94855, y: -29}
+        - {x: 82.94855, y: -28}
+        - {x: 82.94855, y: -24}
+        - {x: 80.94855, y: -22}
+        - {x: 77.94855, y: -23}
+    - name: dude2touch_4
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 0
+        width: 437
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.17432, y: 62}
+        - {x: 64.17432, y: 141}
+        - {x: 28.174316, y: 164}
+        - {x: -39.825684, y: 164}
+        - {x: -64.82568, y: 154}
+        - {x: -101.82568, y: 108}
+        - {x: -118.82568, y: 94}
+        - {x: -118.82568, y: 13}
+        - {x: -74.82568, y: -76}
+        - {x: -75.82568, y: -160}
+        - {x: -74.82568, y: -164}
+        - {x: 63.174316, y: -164}
+        - {x: 120.17432, y: -26}
+        - {x: 120.17432, y: 20}
+      - - {x: 80.17432, y: -37}
+        - {x: 80.17432, y: -41}
+        - {x: 82.17432, y: -43}
+        - {x: 84.17432, y: -43}
+        - {x: 86.17432, y: -41}
+        - {x: 86.17432, y: -39}
+        - {x: 83.17432, y: -36}
+      - - {x: 78.17432, y: -27}
+        - {x: 80.17432, y: -29}
+        - {x: 83.17432, y: -28}
+        - {x: 83.17432, y: -24}
+        - {x: 81.17432, y: -22}
+        - {x: 78.17432, y: -23}
+    - name: dude2touch_5
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 0
+        width: 437
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119.988525, y: 61}
+        - {x: 75.988525, y: 153}
+        - {x: 33.988525, y: 164}
+        - {x: -55.011475, y: 164}
+        - {x: -65.011475, y: 154}
+        - {x: -78.011475, y: 113}
+        - {x: -38.011475, y: 59}
+        - {x: -119.011475, y: 31}
+        - {x: -119.011475, y: -11}
+        - {x: -71.011475, y: -56}
+        - {x: -76.011475, y: -164}
+        - {x: 58.988525, y: -164}
+        - {x: 92.988525, y: -56}
+        - {x: 119.988525, y: -36}
+      - - {x: 79.988525, y: -37}
+        - {x: 79.988525, y: -41}
+        - {x: 81.988525, y: -43}
+        - {x: 83.988525, y: -43}
+        - {x: 85.988525, y: -41}
+        - {x: 85.988525, y: -39}
+        - {x: 82.988525, y: -36}
+      - - {x: 75.988525, y: -17}
+        - {x: 77.988525, y: -19}
+        - {x: 80.988525, y: -18}
+        - {x: 80.988525, y: -15}
+        - {x: 78.988525, y: -13}
+        - {x: 75.988525, y: -14}
+    - name: dude2touch_6
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 14
+        width: 262
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.420044, y: 165.62}
+        - {x: -71.420044, y: 133.62}
+        - {x: -71.420044, y: 106.619995}
+        - {x: -37.420044, y: 69.619995}
+        - {x: -24.420044, y: 64.619995}
+        - {x: -22.420044, y: 64.619995}
+        - {x: -18.420044, y: 62.619995}
+        - {x: -28.420044, y: 57.619995}
+        - {x: -63.420044, y: -29.380005}
+        - {x: -71.420044, y: -54.380005}
+        - {x: -71.420044, y: -164.38}
+        - {x: 72.579956, y: -164.38}
+        - {x: 72.579956, y: 122.619995}
+        - {x: 51.579956, y: 165.62}
+    - name: dude2touch_7
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 23
+        width: 263
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.142822, y: 165.51857}
+        - {x: -48.857178, y: 165.51857}
+        - {x: -71.85718, y: 158.51857}
+        - {x: -71.85718, y: 123.51857}
+        - {x: -41.857178, y: 53.51857}
+        - {x: -60.857178, y: -52.48143}
+        - {x: -71.85718, y: -142.48143}
+        - {x: -71.85718, y: -164.48143}
+        - {x: 61.142822, y: -164.48143}
+        - {x: 72.14282, y: -48.48143}
+        - {x: 72.14282, y: 114.51857}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
