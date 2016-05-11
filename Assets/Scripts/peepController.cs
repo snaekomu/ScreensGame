@@ -48,8 +48,8 @@ public class peepController : MonoBehaviour {
 	}//Update
 
 	//25% chance of triggering change destination
-	public void ChangeDestTrigger() {
-		if (yellable && UnityEngine.Random.Range(0,3) == 1) { //check if it's close to the destination (yellable) and 25% chance
+	public void ChangeDestTrigger(int chance) {
+		if (yellable && UnityEngine.Random.Range(0, chance) == 0) { //check if it's close to the destination (yellable) and 25% chance
 			ChangeDest ();
 		}
 	}//ChangeDestTrigger
