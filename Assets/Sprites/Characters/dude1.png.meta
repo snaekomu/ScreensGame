@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 8cab9782d08fadd4f8f11d546c5e29be
+timeCreated: 1462796421
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dude1_0
+    21300002: dude1_1
+    21300004: dude1_2
+    21300006: dude1_3
+    21300008: dude1_4
+    21300010: dude1_5
+    21300012: dude1_6
+    21300014: dude1_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dude1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 408
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.917145, y: -45}
+        - {x: 111.917145, y: -26}
+        - {x: 54.917145, y: 161}
+        - {x: 51.917145, y: 164}
+        - {x: -44.082855, y: 164}
+        - {x: -106.082855, y: 136}
+        - {x: -111.082855, y: 122}
+        - {x: -111.082855, y: -43}
+        - {x: -89.082855, y: -67}
+        - {x: -71.082855, y: -164}
+        - {x: 65.917145, y: -164}
+        - {x: 111.917145, y: -66}
+        - {x: 111.917145, y: -51}
+        - {x: 109.917145, y: -49}
+    - name: dude1_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 447
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.06714, y: 51}
+        - {x: 43.06714, y: 153}
+        - {x: 37.06714, y: 164}
+        - {x: -39.93286, y: 164}
+        - {x: -105.93286, y: 133}
+        - {x: -52.93286, y: 61}
+        - {x: -121.93286, y: 67}
+        - {x: -121.93286, y: 2}
+        - {x: -76.93286, y: -42}
+        - {x: -75.93286, y: -156}
+        - {x: -69.93286, y: -164}
+        - {x: 63.06714, y: -164}
+        - {x: 122.06714, y: -43}
+        - {x: 122.06714, y: -7}
+    - name: dude1_2
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 414
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114.342834, y: 8}
+        - {x: 89.342834, y: 70}
+        - {x: 48.342834, y: 164}
+        - {x: -49.657166, y: 164}
+        - {x: -112.657166, y: 111}
+        - {x: -112.657166, y: 64}
+        - {x: -103.657166, y: 36}
+        - {x: -78.657166, y: 14}
+        - {x: -54.657166, y: -143}
+        - {x: -83.657166, y: -156}
+        - {x: -77.657166, y: -164}
+        - {x: 55.342834, y: -164}
+        - {x: 88.342834, y: -33}
+        - {x: 114.342834, y: -28}
+    - name: dude1_3
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 0
+        width: 448
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.04999, y: -27}
+        - {x: 121.04999, y: -35}
+        - {x: 122.04999, y: -33}
+        - {x: 122.04999, y: 16}
+        - {x: 95.04999, y: 72}
+        - {x: 30.049988, y: 164}
+        - {x: -33.950012, y: 164}
+        - {x: -40.950012, y: 161}
+        - {x: -88.95001, y: 127}
+        - {x: -80.95001, y: 111}
+        - {x: -112.95001, y: 129}
+        - {x: -121.95001, y: 118}
+        - {x: -121.95001, y: 62}
+        - {x: -82.95001, y: -164}
+        - {x: 59.049988, y: -164}
+        - {x: 71.04999, y: -24}
+        - {x: 69.04999, y: 12}
+        - {x: 73.04999, y: -20}
+    - name: dude1_4
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 0
+        width: 438
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.67432, y: -25}
+        - {x: 89.67432, y: -34}
+        - {x: 95.67432, y: -33}
+        - {x: 107.67432, y: -35}
+        - {x: 120.67432, y: -23}
+        - {x: 120.67432, y: -7}
+        - {x: 88.67432, y: 65}
+        - {x: 32.674316, y: 164}
+        - {x: -43.325684, y: 164}
+        - {x: -110.32568, y: 133}
+        - {x: -119.32568, y: 128}
+        - {x: -119.32568, y: -39}
+        - {x: -116.32568, y: -48}
+        - {x: -84.32568, y: -164}
+        - {x: 58.674316, y: -164}
+        - {x: 70.67432, y: -24}
+        - {x: 68.67432, y: 12}
+        - {x: 73.67432, y: -12}
+      - - {x: 117.67432, y: 1}
+        - {x: 119.67432, y: -1}
+        - {x: 120.67432, y: -1}
+        - {x: 120.67432, y: 4}
+        - {x: 118.67432, y: 4}
+    - name: dude1_5
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 0
+        width: 439
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.488525, y: -23}
+        - {x: 82.488525, y: -27}
+        - {x: 97.488525, y: -33}
+        - {x: 120.488525, y: -34}
+        - {x: 120.488525, y: 128}
+        - {x: 42.488525, y: 164}
+        - {x: -80.511475, y: 164}
+        - {x: -89.511475, y: 127}
+        - {x: -119.511475, y: 78}
+        - {x: -119.511475, y: -62}
+        - {x: -89.511475, y: -164}
+        - {x: 58.488525, y: -164}
+        - {x: 70.488525, y: -24}
+        - {x: 68.488525, y: 12}
+    - name: dude1_6
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 0
+        width: 278
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.137085, y: -107}
+        - {x: 76.137085, y: 106}
+        - {x: 54.137085, y: 164}
+        - {x: -34.862915, y: 164}
+        - {x: -75.862915, y: 146}
+        - {x: -75.862915, y: 88}
+        - {x: -55.862915, y: -55}
+        - {x: -65.862915, y: -158}
+        - {x: -64.862915, y: -164}
+        - {x: 67.137085, y: -164}
+    - name: dude1_7
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 30
+        width: 277
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.407104, y: 155.82857}
+        - {x: 34.407104, y: 164.82857}
+        - {x: -17.592896, y: 164.82857}
+        - {x: -26.592896, y: 163.82857}
+        - {x: -75.592896, y: 138.82857}
+        - {x: -75.592896, y: 103.82857}
+        - {x: -44.592896, y: 62.828568}
+        - {x: -55.592896, y: -41.171432}
+        - {x: -61.592896, y: -150.17143}
+        - {x: -67.592896, y: -164.17143}
+        - {x: 67.407104, y: -164.17143}
+        - {x: 76.407104, y: -79.17143}
+        - {x: 76.407104, y: 71.82857}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

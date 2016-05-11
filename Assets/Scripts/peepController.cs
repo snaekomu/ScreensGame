@@ -11,6 +11,12 @@ public class peepController : MonoBehaviour {
 
 	private bool yellable = false;
 
+	public bool Yellable {
+		get {
+			return yellable;
+		}
+	}
+
 	// Use this for initialization
 	void Start () {
 		//rb = GetComponent<Rigidbody> ();
@@ -33,7 +39,7 @@ public class peepController : MonoBehaviour {
 			ChangeDest ();
 		}
 
-		if (Vector3.Distance(this.transform.position, destinationVector) < 3) {	//check if it's close to its destination
+		if (Vector3.Distance(this.transform.position, destinationVector) < 2) {	//check if it's close to its destination
 			yellable = true;	//if it is allow it to have its destination changed (yellable)
 		} else {
 			yellable = false;	//if it's not set yellable to false to make sure it doesn't change
