@@ -46,11 +46,16 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Billboard.cs" />
+     <Compile Include="Assets\Scripts\EndlessGame.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\animatorBehaviour.cs" />
      <Compile Include="Assets\Scripts\collider.cs" />
+     <Compile Include="Assets\Scripts\loadGame.cs" />
+     <Compile Include="Assets\Scripts\paintingBehaviour.cs" />
      <Compile Include="Assets\Scripts\peepController.cs" />
      <Compile Include="Assets\Scripts\playerController.cs" />
      <Compile Include="Assets\Scripts\properRotation.cs" />
+     <Compile Include="Assets\Scripts\waterBehaviour.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -38,12 +38,6 @@ public class peepController : MonoBehaviour {
 		if (UnityEngine.Random.Range(0,1000) == 362) {
 			ChangeDest ();
 		}
-
-		if (Vector3.Distance(this.transform.position, destinationVector) < 2) {	//check if it's close to its destination
-			yellable = true;	//if it is allow it to have its destination changed (yellable)
-		} else {
-			yellable = false;	//if it's not set yellable to false to make sure it doesn't change
-		}
 		
 	}//Update
 
@@ -51,6 +45,7 @@ public class peepController : MonoBehaviour {
 	public void ChangeDestTrigger(int chance) {
 		if (yellable && UnityEngine.Random.Range(0, chance) == 0) { //check if it's close to the destination (yellable) and 25% chance
 			ChangeDest ();
+			yellable = false;
 		}
 	}//ChangeDestTrigger
 
@@ -66,5 +61,21 @@ public class peepController : MonoBehaviour {
 		}
 		agent.SetDestination (destinationVector);		//Set destination to AI
 	}//ChangeDest
+
+	void reduceSpeed () {
+		agent.speed = 1.2f;
+	}
+
+	void increaseSpeed () {
+		agent.speed = 2.5f;
+	}
+
+	void yell () {
+		yellable = true;
+	}
+
+	void dontYell () {
+		yellable = false;
+	}
 
 }//Class
